@@ -95,7 +95,7 @@ Developed an interactive **Ecommerce Sales Analytics Dashboard** to monitor busi
 
 ## 📊 Dashboard Preview
 
-![Dashboard]<img width="837" height="455" alt="Screenshot 2026-04-24 032839" src="https://github.com/user-attachments/assets/6cb4b600-b292-4684-b662-26354ee4919d" />
+<img width="837" height="455" alt="Screenshot 2026-04-24 032839" src="https://github.com/user-attachments/assets/6cb4b600-b292-4684-b662-26354ee4919d" />
 
 ---
 
