@@ -48,6 +48,7 @@ This project presents an interactive **Ecommerce Sales Dashboard** built using P
 
 * `dashboard.pbix` – Power BI project file
 * Screenshots for preview
+<img width="800" height="452" alt="Screenshot 2026-04-24 032350" src="https://github.com/user-attachments/assets/7cb44756-d9fc-4e39-9e14-01b9b737aeac" />
 
 ---
 
